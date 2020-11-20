@@ -25,17 +25,17 @@ Consider the following characteristics:
  
 Adjustments are to be applied by the following formula 
 (Price of a comparable) X (1-Adjustment) 
-► Adjustment for time of the deal/offer 
-► Generally should be based on analytics on deal prices dynamics (http://www.irn.ru/gd/)  
-► Adjustment for Location (district of the city) 
-► May be based on analytics or estimated as a ratio of average prices for selected samples with similar characteristics except for location (http://www.irn.ru/rating/moscow/) or similar data. 
-► Adjustment for Proximity to metro station 
-► Develop a linear regression mode to estimate the function Price=F(Proximity to metro station ). Properties for the sample should be carefully selected and have minimal deviation in their characteristics except for proximity to a metro station adjustment to comparable price is defined as 
+- Adjustment for time of the deal/offer 
+- Generally should be based on analytics on deal prices dynamics (http://www.irn.ru/gd/)  
+- Adjustment for Location (district of the city) 
+- May be based on analytics or estimated as a ratio of average prices for selected samples with similar characteristics except for location (http://www.irn.ru/rating/moscow/) or similar data. 
+- Adjustment for Proximity to metro station 
+- Develop a linear regression mode to estimate the function Price=F(Proximity to metro station ). Properties for the sample should be carefully selected and have minimal deviation in their characteristics except for proximity to a metro station adjustment to comparable price is defined as 
 1-F(Proximity to metro station subject) / F(Proximity to metro station comparable) 
-► Adjustment for Apartment size 
-► Similar to the Adjustment for Proximity to metro station 
-► Adjustment for fit out condition 
-► Preferably should be based on appropriate analytics 
+- Adjustment for Apartment size 
+- Similar to the Adjustment for Proximity to metro station 
+- Adjustment for fit out condition 
+- Preferably should be based on appropriate analytics 
 Market price or rent should be defined as arithmetical average of adjusted prices of comparables. 
 Fit out condition (other characteristics should be similar) 	Adjustment 
 Made “euro” fit out 	1.068 
